@@ -2,6 +2,8 @@
 
 I'm a product manager who ships. I find the problem by sitting with the people who have it, write the spec, design and build a working first version, validate it with them, and plan how it goes to market.
 
+**AI products:** I built an MCP server that lets teams run [Paso](https://github.com/misaelaneo/product-portfolio/tree/main/paso#ai-paso-inside-claude-mcp-server) from Claude, and a Claude-powered assistant and document reader for [Sistema Gastos](https://github.com/misaelaneo/product-portfolio/blob/main/sistema-gastos/PRD.md#17-ai-features-added-in-v0).
+
 **📂 Start here: [Product Portfolio](https://github.com/misaelaneo/product-portfolio).** It has my PRDs, discovery findings, interview and validation guides, go-to-market plans, pitch decks, brand work and screenshots for every project below.
 
 | Project | Problem | Status |
